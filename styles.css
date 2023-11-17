@@ -1,0 +1,81 @@
+#ping-pong {
+    background-color: black;
+    min-height: 100%;
+    min-height: 100vh;
+}
+
+#score-keeper {
+    width: 35%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+img {
+    width: 350px;
+    border-radius: 10px;
+
+}
+
+h5 {
+    background: -webkit-linear-gradient(1deg, rgba(53,115,255,1) 0%, rgba(255,44,44,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    padding-top: 1rem;
+}
+
+#display {
+    border-top: 2px solid #e0e0e0;
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
+
+
+
+.desc {
+    color: #696969;
+    font-size: 0.8rem;
+}
+
+
+form {
+    margin-top: 2rem;
+}
+
+label {
+    padding-top: 4px;
+    font-size: 0.9rem;
+    color: #0480bf;
+}
+
+#options {
+    margin-top: 3rem;
+
+}
+
+#options button {
+    font-size: 0.8rem;
+    border-radius: 0px;
+    border: none;
+}
+
+#player1 {
+    background-color: #50a85e;
+    margin-right: 0.2rem;
+}
+
+#player2 {
+    background-color: #2098ae;
+}
+
+#reset {
+    margin-top: 0.2rem;
+}
+
+.winner {
+    color: #50a85e;
+}
+
+.loser {
+    color: 	#DC3545;
+}
