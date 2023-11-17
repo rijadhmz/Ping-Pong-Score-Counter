@@ -28,10 +28,10 @@ This project is developed using plain HTML, CSS with Bootstrap 5 for styling, an
 
 ### Example
 
-![Ping Pong Score Counter](https://your-image-url-here.com](https://raw.githubusercontent.com/rijadhmz/Ping-Pong-Score-Counter/main/images/project-screenshot.png)
+![Ping Pong Score Counter](https://github.com/rijadhmz/Ping-Pong-Score-Counter/blob/main/images/project-screenshot.png?raw=true)
 
 ### Project URL
 
-To interact with the deployed project, visit my [CodePen Project](https://codepen.io/rijadhmz/pen/vYbpgBO?raw=true).
+To interact with the deployed project, visit my [CodePen Project](https://codepen.io/rijadhmz/pen/vYbpgBO).
 
 This Ping Pong Score Counter provides a simple yet effective interface for tracking ping pong scores between two players, allowing customization of winning score limits and displaying winner/loser colors upon reaching the specified winning score.
