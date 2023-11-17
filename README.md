@@ -32,6 +32,6 @@ This project is developed using plain HTML, CSS with Bootstrap 5 for styling, an
 
 ### Project URL
 
-To interact with the deployed project, visit my [CodePen Project](https://codepen.io/rijadhmz/pen/vYbpgBO).
+To interact with the deployed project, visit my [CodePen Project](https://codepen.io/rijadhmz/pen/vYbpgBO?raw=true).
 
 This Ping Pong Score Counter provides a simple yet effective interface for tracking ping pong scores between two players, allowing customization of winning score limits and displaying winner/loser colors upon reaching the specified winning score.
