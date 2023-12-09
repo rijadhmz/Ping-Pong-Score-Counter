@@ -1,6 +1,6 @@
 ## Ping Pong Score Counter
 
-This project involves building a Ping Pong Score Counter using HTML, CSS with Bootstrap 5, and plain JavaScript. The Ping Pong Score Counter allows users to keep track of scores between two players in a ping pong game.
+Ping Pong Score Counter is developed as part of Colt Steele's Web Development Bootcamp 2023 on Udemy. It's an exercise meant to test and further increase our JavaScript skills by creating an application that keeps track of scores between two players in a ping pong game.
 
 ### Project Description
 
